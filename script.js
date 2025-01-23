@@ -9,3 +9,12 @@ console.log(typeof employeeID);
 var isActive = true;
 console.log(typeof isActive);
 
+// Task 2: Primitive Data Types
+let productName = "Chair";
+console.log(typeof productName);
+
+const productPrice = 50;
+console.log(typeof productPrice);
+
+var isAvailable = true;
+console.log(typeof isAvailable);
