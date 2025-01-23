@@ -34,3 +34,12 @@ console.log(accountBalance); // Output: 200
 let customerName = "John Smith";
 let greeting = "Welcome to our website,";
 console.log(greeting, customerName);
+
+// Task 5: Boolean Data Type
+
+let isLoggedIn = true;
+if (isLoggedIn) {
+    console.log("Access Granted.");
+} else {
+    console.log("Access Denied.");
+}
