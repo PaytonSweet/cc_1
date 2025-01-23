@@ -10,6 +10,7 @@ var isActive = true;
 console.log(typeof isActive);
 
 // Task 2: Primitive Data Types
+
 let productName = "Chair";
 console.log(typeof productName);
 
@@ -18,3 +19,12 @@ console.log(typeof productPrice);
 
 var isAvailable = true;
 console.log(typeof isAvailable);
+
+//Task 3: Number Data Type
+
+let accountBalance = 100;
+accountBalance += 500;
+accountBalance -= 200;
+accountBalance *= 2;
+accountBalance /= 4;
+console.log(accountBalance); // Output: 200
