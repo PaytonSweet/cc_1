@@ -20,7 +20,7 @@ console.log(typeof productPrice);
 var isAvailable = true;
 console.log(typeof isAvailable);
 
-//Task 3: Number Data Type
+// Task 3: Number Data Type
 
 let accountBalance = 100;
 accountBalance += 500;
@@ -28,3 +28,9 @@ accountBalance -= 200;
 accountBalance *= 2;
 accountBalance /= 4;
 console.log(accountBalance); // Output: 200
+
+// Task 4: String Data Type
+
+let customerName = "John Smith";
+let greeting = "Welcome to our website,";
+console.log(greeting, customerName);
